@@ -24,7 +24,7 @@ func (h *Handler) ForgetPassword(w http.ResponseWriter,r *http.Request){
 }
 func (h *Handler) ChangePasswordVerify(w http.ResponseWriter,r *http.Request){
 
-	//abhi code likha jyega guys
+	//abhii code likha jyega guys
 
 }
 func (h *Handler) ChangePassword(w http.ResponseWriter,r *http.Request){
